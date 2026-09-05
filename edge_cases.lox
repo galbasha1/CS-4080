@@ -1,0 +1,19 @@
+print 1 / 0;
+
+if (0) {
+    
+    print "0 is true";
+
+} else {
+    
+    print "0 is false";
+}
+
+if ("") {
+ 
+    print "empty string is true";
+
+} else {
+ 
+    print "empty string is false";
+}
